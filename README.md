@@ -24,7 +24,7 @@ This project is about detecting plant diseases using leaf images. A simple Convo
 
 The dataset was taken from Kaggle and contains images of plant leaves divided into different classes such as healthy and diseased. The images were loaded directly into Google Colab.
 
-Dataset link: [Plant Disease Dataset on Kaggle](https://www.kaggle.com/datasets/username/dataset-name](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+Dataset link: [Plant Disease Dataset on Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
 ## How It Works
 
